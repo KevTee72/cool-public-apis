@@ -5,7 +5,7 @@
   <br />
 </p>
 
-A hand picked list of free public APIs that are actually pretty useful for non work related use :D Dog pictures, dad jokes, the ISS location, cocktail recipes, Pokémon stats, live earthquakes
+A hand picked list of free public APIs that are actually pretty useful for non work related use :D Or is it?
 
 **!Every one of them was tested before it went in this list!**
 

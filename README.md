@@ -6,7 +6,9 @@
   <em>me after finding an API that needs no key, no signup and no credit card</em>
 </p>
 
-A hand picked list of free public APIs that are actually fun to call. Dog pictures, dad jokes, the ISS location, cocktail recipes, Pokémon stats, live earthquakes. Every one of them was tested before it went in this list.
+A hand picked list of free public APIs that are actually pretty useful for non work related use :D Dog pictures, dad jokes, the ISS location, cocktail recipes, Pokémon stats, live earthquakes
+
+**!Every one of them was tested before it went in this list!**
 
 Most of them need **zero signup**. Every row has a **poke it** link to a real, working endpoint, so you can click it and see JSON in your browser before you write any code.
 

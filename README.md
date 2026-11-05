@@ -3,7 +3,6 @@
 <p align="center">
   <img src="assets/meme.png" alt="cool-public-apis" width="420" />
   <br />
-  <em>me after finding an API that needs no key, no signup and no credit card</em>
 </p>
 
 A hand picked list of free public APIs that are actually pretty useful for non work related use :D Dog pictures, dad jokes, the ISS location, cocktail recipes, Pokémon stats, live earthquakes
